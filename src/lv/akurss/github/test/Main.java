@@ -6,5 +6,7 @@ public class Main {
         Person p = new Person ("John");
 
         System.out.println(p.getName());
+
+        System.out.println("Hello!");
     }
 }
